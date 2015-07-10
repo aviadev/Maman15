@@ -11,7 +11,7 @@ public class Tester17ForStudents
 		String s5 = " TheExamIsEasy";
 		String s6 = " The*IsHard";
 		String s7 = " The**IsHard";
-		System.out.println(s1);
+		System.out.println(s3);
 		//Tirgul tirgul = new Tirgul();
 /*
 		System.out.println(tirgul.samePattern(s1, s2));
